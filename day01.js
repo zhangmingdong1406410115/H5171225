@@ -26,3 +26,5 @@ day02
 
 
 ssss
+
+weain
